@@ -1,5 +1,7 @@
-#ºöÂÔ±àÒëÄ¿Â¼target
+#å¿½ç•¥ç¼–è¯‘ç›®å½•target
+.idea/
+.mvn/
 target/
-*/**/.idea/
 *.iml
-*/**/.classpth
+mvnw
+*.cmd
